@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<div style={{display:"flex", justifyContent:"center", alignItems:"center", width:"65px"}}> 
- <img style={{width:"100%"}} src="https://firebasestorage.googleapis.com/v0/b/portfolio-67d8f.appspot.com/o/aboutImage.png?alt=media&token=e5014f14-fe17-4c62-a4af-9e7446f659fb" />
+<!-- <div style={{display:"flex", justifyContent:"center", alignItems:"center", width:"65px"}}> 
+ <img style={{width:"100%"}} src="https://firebasestorage.googleapis.com/v0/b/portfolio-67d8f.appspot.com/o/aboutImage.png?alt=media&token=e5014f14-fe17-4c62-a4af-9e7446f659fb" /> -->
 </div>
 <br/>
 <br/>
