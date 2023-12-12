@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React, TypeScript, HTML, CSS, ES6, MongoDB, MySQL, ....**
 - 📫 How to reach me **ashwini.titarmare96@gmail.com**
-<a href="https://ashwini2704.github.io">My Portfolio</a>
+- <a href="https://ashwini2704.github.io">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
