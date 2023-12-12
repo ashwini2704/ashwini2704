@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashwini</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img style={{textAlign:"center"}} src="https://firebasestorage.googleapis.com/v0/b/portfolio-67d8f.appspot.com/o/aboutImage.png?alt=media&token=e5014f14-fe17-4c62-a4af-9e7446f659fb" />
+<img style={{display:"flex", justifyContent:"center", alignItems:"center"}} src="https://firebasestorage.googleapis.com/v0/b/portfolio-67d8f.appspot.com/o/aboutImage.png?alt=media&token=e5014f14-fe17-4c62-a4af-9e7446f659fb" />
 <br/>
 <br/>
 
-- 💬 Ask me about **React, TypeScript, HTML, CSS, ES6, MongoDB, React, Express js, Node.js,....**
+- 💬 Ask me about **React, TypCSS, ES6, MongoDB, React, Express js, Node.js,....**
 - 📫 How to reach me **ashwini.titarmare96@gmail.com**
 - <a href="https://ashwini2704.github.io">My Portfolio</a>
 <br/>
