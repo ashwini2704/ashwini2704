@@ -3,9 +3,10 @@
 <br/>
 <br/>
 
-- 💬 Ask me about **React, TypeScript, HTML, CSS, ES6, MongoDB, MySQL, ....**
+- 💬 Ask me about **React, TypeScript, HTML, CSS, ES6, MongoDB, React, Express js, Node.js,....**
 - 📫 How to reach me **ashwini.titarmare96@gmail.com**
 - <a href="https://ashwini2704.github.io">My Portfolio</a>
+<br/>
 - <a href="https://github.com/ashwini2704/EveryDaySunday">EverySunday</a> : EverySunday is a travel website where user can search hotels by location and book hotels in an online space.
 - <a href="https://github.com/ashwini2704/exotic-minute-882">Medion</a> : Medion is a online pharmacy where user can buy pharmacy products which allows user to filter and sort products.
 - <a href="https://github.com/ashwini2704/swiftPay">SwiftPay</a> : With Swiftpay, you can seamlessly handle subscriptions, send and receive money from your contacts, and witness real-time transaction updates right on your user interface.
