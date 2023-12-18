@@ -11,7 +11,7 @@
 - <a href="https://ashwini2704.github.io">My Portfolio</a>
 <br/>
 
-- <a href="https://github.com/ashwini2704/EveryDaySunday">EverySunday</a> : EverySunday is a travel website where user can search hotels by location and book hotels in an online space.
+- <a href="https://github.com/ashwini2704/EverySunday">EverySunday</a> : EverySunday is a travel website where user can search hotels by location and book hotels in an online space.
 - <a href="https://github.com/ashwini2704/exotic-minute-882">Medion</a> : Medion is a online pharmacy where user can buy pharmacy products which allows user to filter and sort products.
 - <a href="https://github.com/ashwini2704/SwiftPay-Finance-App">SwiftPay</a> : With Swiftpay, you can seamlessly handle subscriptions, send and receive money from your contacts, and witness real-time transaction updates right on your user interface.
 - <a href="https://github.com/ashwini2704/travel-seekers">Travel Seekers</a> : Travel Seekers is a travel website where user can book hotels and sort and filter according to location.
