@@ -17,7 +17,7 @@
 - <a href="https://github.com/ashwini2704/travel-seekers">Travel Seekers</a> : Travel Seekers is a travel website where user can book hotels and sort and filter according to location.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ashwini-t-8a43611b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashwini-t-8a43611b7/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashwini-t-8a43611b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashwini-t-8a43611b7/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
